@@ -5,9 +5,9 @@
   "description": "This is an video setting for URP. Used for in-game display and graphics settings.",
   "unity": "2022.3",
   "unityRelease": "14f1",
-  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.video.URP/manual/",
-  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.video.URP/changelog/CHANGELOG.html",
-  "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.video.URP/license/LICENSE.html",
+  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.video.urp/manual/",
+  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.video.urp/changelog/CHANGELOG.html",
+  "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.ss2.settings.video.urp/license/LICENSE.html",
   "scopedRegistries": [
     {
       "name": "Studio 23",
