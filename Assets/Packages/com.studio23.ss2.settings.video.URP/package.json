@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1",
-    "com.studio23.ss2.settings.video": "1.0.1"
+    "com.studio23.ss2.settings.video": "1.0.2"
   },
   "samples": [
     {
